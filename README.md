@@ -30,11 +30,11 @@ Available options are:
 
 |Flag          |Description                                                               |
 |--------------|--------------------------------------------------------------------------|
-|`data-science`|Include software related to data science projects, mostly python packages.|
+|`data-science`|Include software related to data science projects, mostly python packages |
 |`frontend-dev`|Include software to assist frontend development such as Grunt and Yeoman  |
 |`backend-dev` |Include software to assist backend development such as Node               |
 |`with-base`   |Forces installation of base software                                      |
-|`without-base`|Runs the script but ignores installing the base software                  |
+|`without-base`|Runs the script but ignores installing the base software, useful if installing a specific package after initially running the script                  |
 
 
 ## Help
