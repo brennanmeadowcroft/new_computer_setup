@@ -39,6 +39,9 @@
 		# cat .bash_profile > ~/.bash_profile
 
 		echo "Setting global .gitignore"
+		
+		echo "Adding TheFuck command line tool"
+		# wget -O - https://raw.githubusercontent.com/nvbn/thefuck/master/install.sh | sh - && $0
 	# fi
 
 	# Run necessary installs associated with provided flags
