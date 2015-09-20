@@ -11,6 +11,16 @@ Not including flags will only install base software and settings:
 
 * Homebrew
 * .bash_profile
+* Global .gitignore
+* coreutils
+* vim
+* git
+* tree
+* watch
+* docker-machine
+* node
+* python
+* XCode Command Line Tools
 
 
 ## Using Flags
